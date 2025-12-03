@@ -1,7 +1,7 @@
 # Practical Example: Book Library
-print("\n" + "=" * 60)
+print("\n" + "-" * 60)
 print("PRACTICAL EXAMPLE: LIBRARY MANAGEMENT")
-print("=" * 60)
+print("-" * 60)
 
 # Create book list
 library = ['1984', 'Harry Potter', 'War and Peace', 'The Master and Margarita']
