@@ -1,0 +1,74 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+    crs:Version="12.0"
+    crs:ProcessVersion="11.0"
+    crs:Name="Travel Editorial - Modern"
+    crs:AlreadyApplied="False">
+
+   <crs:Exposure2012>+0.20</crs:Exposure2012>
+   <crs:Contrast2012>+10</crs:Contrast2012>
+   <crs:Highlights2012>-50</crs:Highlights2012>
+   <crs:Shadows2012>+40</crs:Shadows2012>
+   <crs:Whites2012>+20</crs:Whites2012>
+   <crs:Blacks2012>-15</crs:Blacks2012>
+
+   <crs:Texture>+10</crs:Texture>
+   <crs:Clarity2012>+15</crs:Clarity2012>
+   <crs:Dehaze>+5</crs:Dehaze>
+   <crs:Vibrance>+20</crs:Vibrance>
+   <crs:Saturation>-5</crs:Saturation>
+
+   <crs:Sharpness>40</crs:Sharpness>
+   <crs:SharpenRadius>1.0</crs:SharpenRadius>
+   <crs:SharpenDetail>25</crs:SharpenDetail>
+   <crs:SharpenEdgeMasking>70</crs:SharpenEdgeMasking>
+
+   <crs:RedHue>0</crs:RedHue>
+   <crs:RedSaturation>+10</crs:RedSaturation>
+   <crs:RedLuminance>-5</crs:RedLuminance>
+   <crs:OrangeHue>-5</crs:OrangeHue>
+   <crs:OrangeSaturation>+15</crs:OrangeSaturation>
+   <crs:OrangeLuminance>+5</crs:OrangeLuminance>
+   <crs:YellowHue>-15</crs:YellowHue>
+   <crs:YellowSaturation>-5</crs:YellowSaturation>
+   <crs:YellowLuminance>+10</crs:YellowLuminance>
+   <crs:GreenHue>+25</crs:GreenHue>
+   <crs:GreenSaturation>-15</crs:GreenSaturation>
+   <crs:GreenLuminance>-10</crs:GreenLuminance>
+   <crs:AquaHue>0</crs:AquaHue>
+   <crs:AquaSaturation>-10</crs:AquaSaturation>
+   <crs:AquaLuminance>0</crs:AquaLuminance>
+   <crs:BlueHue>-10</crs:BlueHue>
+   <crs:BlueSaturation>-5</crs:BlueSaturation>
+   <crs:BlueLuminance>-10</crs:BlueLuminance>
+   <crs:PurpleHue>0</crs:PurpleHue>
+   <crs:PurpleSaturation>-20</crs:PurpleSaturation>
+   <crs:MagentaHue>0</crs:MagentaHue>
+   <crs:MagentaSaturation>-20</crs:MagentaSaturation>
+
+   <crs:SplitToningShadowHue>210</crs:SplitToningShadowHue>
+   <crs:SplitToningShadowSaturation>10</crs:SplitToningShadowSaturation>
+   <crs:SplitToningHighlightHue>45</crs:SplitToningHighlightHue>
+   <crs:SplitToningHighlightSaturation>5</crs:SplitToningHighlightSaturation>
+   <crs:SplitToningBalance>0</crs:SplitToningBalance>
+
+   <crs:ToneCurveName2012>Custom</crs:ToneCurveName2012>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>32, 28</rdf:li>
+     <rdf:li>128, 128</rdf:li>
+     <rdf:li>192, 196</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+
+   <crs:LensProfileEnable>1</crs:LensProfileEnable>
+   <crs:ChrominanceNoiseReduction>25</crs:ChrominanceNoiseReduction>
+   <crs:AutoLateralCA>1</crs:AutoLateralCA>
+
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
