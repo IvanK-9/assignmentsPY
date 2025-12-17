@@ -1,9 +1,9 @@
 def make_shirt(size, message):
-    """Печатает сводное сообщение о футболке."""
-    print(f"Футболка размера {size} с надписью: '{message}'.")
+    """Prints a summary message about the t-shirt."""
+    print(f"A {size}-sized t-shirt with the message: '{message}'.")
 
-# 1. 
+# 1. Positional arguments
 make_shirt('M', 'Hello, World!')
 
-# 2. 
+# 2. Keyword arguments
 make_shirt(size='L', message='Python is awesome!')

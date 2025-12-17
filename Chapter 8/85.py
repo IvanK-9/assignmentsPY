@@ -1,12 +1,12 @@
 def describe_city(city, country='Iceland'):
     print(f"{city} is in {country}.")
 
-# 1. Город в стране по умолчанию
+# 1. 
 describe_city('Reykajavik')
 
-# 2. Ещё один город в Исландии
+# 2. 
 describe_city('Akujeri')
 
-# 3. Город в другой стране
+# 3. 
 describe_city('Tokio', 'Japan')
 describe_city(city='Paris', country='France')

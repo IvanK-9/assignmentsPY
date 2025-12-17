@@ -1,5 +1,5 @@
 def make_shirt(size='L', message='I love Python'):
-    print(f"Футболка размера {size} с надписью: '{message}'.")
+    print(f"T-shirt {size} w print '{message}'.")
 
 # 1. 
 make_shirt()
