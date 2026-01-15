@@ -1,0 +1,24 @@
+# ============================================================
+# EXERCISE 10-7: ADDITION CALCULATOR
+# ============================================================
+print("\n\n" + "="*60)
+print("EXERCISE 10-7: ADDITION CALCULATOR")
+print("="*60)
+print("Enter 'quit' to exit\n")
+
+while True:
+    first_number = input("Enter the first number: ")
+    if first_number.lower() == 'quit':
+        break
+    
+    second_number = input("Enter the second number: ")
+    if second_number.lower() == 'quit':
+        break
+    
+    try:
+        result = int(first_number) + int(second_number)
+        print(f"✓ Sum: {first_number} + {second_number} = {result}\n")
+    except ValueError:
+        print("❌ Error! Enter numbers. Try again.\n")
+
+print("Goodbye!")

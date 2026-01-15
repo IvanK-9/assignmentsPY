@@ -1,0 +1,10 @@
+print("\n\n" + "="*60)
+print("EXERCISE 10-4: GUEST")
+print("="*60)
+
+name = input("\nWhat's your name? ")
+
+with open('guest.txt', 'w', encoding='utf-8') as file:
+    file.write(name)
+
+print(f"Hello, {name}! Your name has been saved to guest.txt")

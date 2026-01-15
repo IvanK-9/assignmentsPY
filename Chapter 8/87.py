@@ -20,3 +20,6 @@ album3 = make_album("Beyoncé", "Lemonade", songs=12)
 print(album1)
 print(album2)
 print(album3)
+
+import sys
+print(sys.getrefcount(album1))

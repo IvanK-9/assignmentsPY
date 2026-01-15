@@ -1,0 +1,3 @@
+In Python you can automatize everything.
+In Python you can make mini-services.
+In Python you can go deeper in IT-industry.

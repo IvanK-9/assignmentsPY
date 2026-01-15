@@ -1,5 +1,5 @@
 def make_album(artist, title, songs=None):
-    """Как в задании 8‑7."""
+    """like exc. 8‑7."""
     album = {'artist': artist, 'title': title}
     if songs is not None:
         album['songs'] = songs
@@ -27,7 +27,7 @@ while True:
     else:
         songs = int(song_input)
 
-    # Создаём альбом и выводим
+    # packing album and exit
     album = make_album(artist, title, songs)
     print("\nCreated album:")
     print(album)

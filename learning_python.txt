@@ -1,0 +1,4 @@
+In Python I learned about variables and data types.
+Python uses indentation for code structure.
+In Python it's easy to work with lists and dictionaries.
+Python is an excellent language for beginners.
